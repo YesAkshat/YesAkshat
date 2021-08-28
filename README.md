@@ -7,3 +7,7 @@
 YesAkshat/YesAkshat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+I also have a youtube channel on coding try checking it out if you're having a doubt  link -- https://youtu.be/QuOOBcuKEzQ
+
